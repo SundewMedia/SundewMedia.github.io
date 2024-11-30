@@ -1,9 +1,4 @@
-@font-face {
-    font-family: 'Ubuntu';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Ubuntu'), url(http://example.com/fonts/ubuntu.woff) format('woff');
-}
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
 
 body {
   font-family: Ubuntu;

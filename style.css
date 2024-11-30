@@ -2,7 +2,7 @@
   font-family: "Times New Roman";
 }
 
-.shop-button:hover {
+#shop-button:hover {
   background-color: #f5a742;
   font-size: 20px;
 }
